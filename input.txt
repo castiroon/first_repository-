@@ -1,0 +1,12 @@
+SIZE 10 10
+START 0 0
+MOVE RIGHT
+EXEC main.txt
+PAINT z
+MOVE RIGHT
+
+
+
+
+
+
